@@ -1,2 +1,2 @@
 # aws-secretmanager-rds-password-change
-automatically rotate passwords using aws secret manager and RDS
+automatically rotate RDS passwords using aws secret manager 
